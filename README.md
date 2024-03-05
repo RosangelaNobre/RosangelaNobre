@@ -2,7 +2,7 @@
 <h3 align="center">Cientista de Dados e Estatístico apaixonada pelo conhecimento em tecnologia</h3>
 
 <p>
-- 🔭 Atualmente estou desenvolvendo **projetos pessoais voltados a análise de dados e ciências de dados**
+- 🔭 Atualmente estou desenvolvendo projetos pessoais voltados a análise de dados e ciências de dados
 
 - 🌱 No momento estou aprendendo **Python e Machine Learning**
 
