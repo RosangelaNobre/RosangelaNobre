@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Rosângela Nobre</h1>
-<h3 align="center">Cientista de Dados e Estatístico apaixonada pelo conhecimento em tecnologia</h3>
+<h3 align="center">Cientista de Dados e Estatístico apaixonada pelos conhecimentos em tecnologia</h3>
 
 <p>
 - 🔭 Atualmente estou desenvolvendo projetos pessoais voltados a análise de dados e ciências de dados
